@@ -1,4 +1,4 @@
-#Requires -Modules Az.Storage, Az.Profile, Az.Resources
+#Requires -Modules Az.Storage, Az.Accounts, Az.Resources
 
 New-Alias -Name Add-AzStorageTableRow -Value Add-StorageTableRow
 $arr = @()
