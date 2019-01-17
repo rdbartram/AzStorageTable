@@ -30,6 +30,6 @@
     
     # Modules to import as nested modules of the module specified in RootModule/ModuleToProcess
     RootModule = @('AzStorageTable.psm1')
-    RequiredModules = @('Az.Storage', 'Az.Profile', 'Az.Resources')
+    RequiredModules = @('Az.Storage', 'Az.Accounts', 'Az.Resources')
     
     }
