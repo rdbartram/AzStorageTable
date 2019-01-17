@@ -9,6 +9,9 @@
     # Company or vendor of this module
     CompanyName = 'Secure-24'
     
+    # Supported PSEditions
+    CompatiblePSEditions = 'Core', 'Desktop'
+    
     # Copyright statement for this module
     Copyright = ''
     
@@ -22,7 +25,7 @@
     ModuleVersion = '1.0.0'
     
     # Minimum version of the Windows PowerShell engine required by this module
-    PowerShellVersion = '6.1'
+    PowerShellVersion = '5.1'
     
     
     # Script module or binary module file associated with this manifest
